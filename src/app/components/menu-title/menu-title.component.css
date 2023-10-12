@@ -10,6 +10,7 @@
   font-weight: bolder;
   display: flex;
   justify-content: center;
+  color: red;
 }
 
 .container__menu-title > hr {
